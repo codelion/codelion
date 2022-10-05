@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codelion.
-- 👀 I’m interested in AI/ML, Dev Tools and Software Security.
+- 👀 I’m interested in AI/ML, Dev Tools and Application Security.
 - 📫 You can reach me on asankhaya at yahoo dot com.
 
 <!---
